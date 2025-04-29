@@ -1,4 +1,4 @@
-# Skill Network Labs
+# Skill Network Labs (Course Repository)
 
 This repository contains various JavaScript-based projects and labs for practicing web development concepts. Each folder represents a standalone project or lab with its own HTML, CSS, and JavaScript files.
 
